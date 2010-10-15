@@ -3,5 +3,8 @@
    <feature url="features/org.efaps.eclipse.plugin_0.1.0.201010151423.jar" id="org.efaps.eclipse.plugin" version="0.1.0.201010151423">
       <category name="org.efaps.eclipse.plugin"/>
    </feature>
+   <feature url="features/org.efaps.eclipse.plugin_0.2.0.201010151804.jar" id="org.efaps.eclipse.plugin" version="0.2.0.201010151804">
+      <category name="org.efaps.eclipse.plugin"/>
+   </feature>
    <category-def name="org.efaps.eclipse.plugin" label="eFaps Eclipse Plugin"/>
 </site>
