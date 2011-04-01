@@ -12,5 +12,8 @@
    <feature url="features/org.efaps.eclipse.plugin_0.3.0.201010221527.jar" id="org.efaps.eclipse.plugin" version="0.3.0.201010221527">
       <category name="eFapsEclipsePlugin"/>
    </feature>
+   <feature url="features/org.efaps.eclipse.plugin_0.4.0.201103312100.jar" id="org.efaps.eclipse.plugin" version="0.4.0.201103312100">
+      <category name="eFapsEclipsePlugin"/>
+   </feature>
    <category-def name="eFapsEclipsePlugin" label="eFaps Eclipse Plugin"/>
 </site>
