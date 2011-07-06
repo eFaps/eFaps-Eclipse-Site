@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.efaps.eclipse.plugin_0.1.0.201010151423.jar" id="org.efaps.eclipse.plugin" version="0.1.0.201010151423">
-      <category name="eFapsEclipsePlugin"/>
-   </feature>
-   <feature url="features/org.efaps.eclipse.plugin_0.2.0.201010151804.jar" id="org.efaps.eclipse.plugin" version="0.2.0.201010151804">
-      <category name="eFapsEclipsePlugin"/>
-   </feature>
-   <feature url="features/org.efaps.eclipse.plugin_0.2.1.201010152000.jar" id="org.efaps.eclipse.plugin" version="0.2.1.201010152000" patch="true">
-      <category name="eFapsEclipsePlugin"/>
-   </feature>
-   <feature url="features/org.efaps.eclipse.plugin_0.3.0.201010221527.jar" id="org.efaps.eclipse.plugin" version="0.3.0.201010221527">
-      <category name="eFapsEclipsePlugin"/>
-   </feature>
-   <feature url="features/org.efaps.eclipse.plugin_0.4.0.201106271958.jar" id="org.efaps.eclipse.plugin" version="0.4.0.201106271958">
-      <category name="eFapsEclipsePlugin"/>
-   </feature>
    <feature url="features/org.efaps.eclipse.m2e.connector_0.1.1.jar" id="org.efaps.eclipse.m2e.connector" version="0.1.1">
       <category name="eFapsM2eConnector"/>
+   </feature>
+   <feature url="features/org.efaps.eclipse.plugin_0.4.1.jar" id="org.efaps.eclipse.plugin" version="0.4.1">
+      <category name="eFapsEclipsePlugin"/>
    </feature>
    <category-def name="eFapsEclipsePlugin" label="eFaps Eclipse Plugin"/>
    <category-def name="eFapsM2eConnector" label="eFaps m2e Connector"/>
