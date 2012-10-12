@@ -6,6 +6,9 @@
    <feature url="features/org.efaps.eclipse.m2e.connector_0.3.1.jar" id="org.efaps.eclipse.m2e.connector" version="0.3.1">
       <category name="eFapsM2eConnector"/>
    </feature>
+   <feature url="features/org.efaps.eclipse.plugin_0.5.2.jar" id="org.efaps.eclipse.plugin" version="0.5.2">
+      <category name="eFapsEclipsePlugin"/>
+   </feature>
    <category-def name="eFapsEclipsePlugin" label="eFaps Eclipse Plugin"/>
    <category-def name="eFapsM2eConnector" label="eFaps m2e Connector"/>
 </site>
