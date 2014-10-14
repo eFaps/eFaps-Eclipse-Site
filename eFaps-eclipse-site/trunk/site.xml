@@ -57,6 +57,9 @@
    <feature url="features/org.efaps.jasper.plugin_1.0.9.jar" id="org.efaps.jasper.plugin" version="1.0.9">
       <category name="eFapsJaspersoftStudioPlugin"/>
    </feature>
+   <feature url="features/org.efaps.jasper.plugin_1.0.10.jar" id="org.efaps.jasper.plugin" version="1.0.10">
+      <category name="eFapsJaspersoftStudioPlugin"/>
+   </feature>
    <category-def name="eFapsEclipsePlugin" label="eFaps Eclipse Plugin"/>
    <category-def name="eFapsM2eConnector" label="eFaps m2e Connector"/>
    <category-def name="eFapsJaspersoftStudioPlugin" label="eFaps Jaspersoft Studio Plugin"/>
