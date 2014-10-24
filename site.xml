@@ -72,7 +72,17 @@
    <feature url="features/org.efaps.jasper.plugin_1.0.14.jar" id="org.efaps.jasper.plugin" version="1.0.14">
       <category name="eFapsJaspersoftStudioPlugin"/>
    </feature>
+   <feature url="features/org.efaps.jasper.plugin_1.1.0.jar" id="org.efaps.jasper.plugin" version="1.1.0">
+      <category name="eFapsJaspersoftStudioPlugin"/>
+   </feature>
+   <feature url="features/org.efaps.jasper.fragment_1.0.0.jar" id="org.efaps.jasper.plugin" version="1.0.0">
+      <category name="eFapsJaspersoftStudioFragment"/>
+   </feature>
+   <feature url="features/org.efaps.jasper.fragment_1.0.0.jar" id="org.efaps.jasper.fragment" version="1.0.0">
+      <category name="eFapsJaspersoftStudioFragment"/>
+   </feature>
    <category-def name="eFapsEclipsePlugin" label="eFaps Eclipse Plugin"/>
    <category-def name="eFapsM2eConnector" label="eFaps m2e Connector"/>
    <category-def name="eFapsJaspersoftStudioPlugin" label="eFaps Jaspersoft Studio Plugin"/>
+   <category-def name="eFapsJaspersoftStudioFragment" label="eFaps Jaspersoft Studio Fragment"/>
 </site>
