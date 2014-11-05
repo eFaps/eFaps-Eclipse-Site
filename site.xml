@@ -78,6 +78,9 @@
    <feature url="features/org.efaps.jasper.plugin_1.1.1.jar" id="org.efaps.jasper.plugin" version="1.1.1">
       <category name="eFapsJaspersoftStudioPlugin"/>
    </feature>
+   <feature url="features/org.efaps.jasper.plugin_1.1.2.jar" id="org.efaps.jasper.plugin" version="1.1.2">
+      <category name="eFapsJaspersoftStudioPlugin"/>
+   </feature>
    <feature url="features/org.efaps.jasper.fragment_1.0.0.jar" id="org.efaps.jasper.plugin" version="1.0.0">
       <category name="eFapsJaspersoftStudioFragment"/>
    </feature>
